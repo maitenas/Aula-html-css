@@ -3,7 +3,11 @@ body {
 }
 
 .titulo-principal {
-	padding: 20px;
+	padding: 30px;
+	color: #000000;
+	font-weight: bold;
+	font-size: 50px;
+	text-decoration: none;
 }
 
 #banner {
@@ -16,7 +20,10 @@ body {
 }
 
 .titulo-centralizado {
-	text-align: center
+	text-align: center;
+	font-weight: bold;
+	font-size: 30px;
+	margin-top: 10px;
 }
 
 p {
@@ -48,4 +55,15 @@ ul {
 
 .imagembeneficios {
 	width: 50%;
+}
+footer {
+	text-align: center;
+	background: url("imagens/bg.jpg");
+	padding: 40px 0;
+}
+
+.copyright {
+	color: #FFFFFF;
+	font-size: 13px;
+	margin-top: 20px;
 }
